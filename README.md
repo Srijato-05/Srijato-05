@@ -5,5 +5,5 @@
 - 🌱 I’m presently learning C Programming.
 - 💬My hobbies are book reading, debating & playing chess.
 
-- ⚡ Fun fact about me :   I've probably readd more storybooks than you.
+- ⚡ Fun fact about me :   I've probably read more storybooks than you.
 
